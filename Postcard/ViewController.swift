@@ -26,6 +26,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    //I added these lines
     @IBAction func sendMailButtenPressed(sender: UIButton) {
         messageLabel.hidden = false
         messageLabel.text = enterMessageTextField.text
