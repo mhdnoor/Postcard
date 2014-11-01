@@ -13,6 +13,8 @@
 		DEB8615A1A0331E6007CF968 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEB861591A0331E6007CF968 /* Images.xcassets */; };
 		DEB8615D1A0331E6007CF968 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DEB8615B1A0331E6007CF968 /* LaunchScreen.xib */; };
 		DEB861691A0331E7007CF968 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB861681A0331E7007CF968 /* PostcardTests.swift */; };
+		DEB861731A03568A007CF968 /* ibnQayyem.001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DEB861721A03568A007CF968 /* ibnQayyem.001.jpg */; };
+		DEB861751A035A11007CF968 /* thum_aada.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DEB861741A035A11007CF968 /* thum_aada.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		DEB861621A0331E7007CF968 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEB861671A0331E7007CF968 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DEB861681A0331E7007CF968 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		DEB861721A03568A007CF968 /* ibnQayyem.001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ibnQayyem.001.jpg; sourceTree = "<group>"; };
+		DEB861741A035A11007CF968 /* thum_aada.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thum_aada.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		DEB861501A0331E6007CF968 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DEB861741A035A11007CF968 /* thum_aada.jpg */,
+				DEB861721A03568A007CF968 /* ibnQayyem.001.jpg */,
 				DEB861511A0331E6007CF968 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEB861751A035A11007CF968 /* thum_aada.jpg in Resources */,
 				DEB861581A0331E6007CF968 /* Main.storyboard in Resources */,
 				DEB8615D1A0331E6007CF968 /* LaunchScreen.xib in Resources */,
+				DEB861731A03568A007CF968 /* ibnQayyem.001.jpg in Resources */,
 				DEB8615A1A0331E6007CF968 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
